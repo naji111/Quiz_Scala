@@ -1,0 +1,53 @@
+[
+  {
+    "question": "What is the primary goal of data science?",
+    "choices": ["To analyze data", "To create data", "To visualize data", "To extract knowledge and insights from data"],
+    "correctAnswer": "To extract knowledge and insights from data"
+  },
+  {
+    "question": "Which programming language is commonly used for data science?",
+    "choices": ["Java", "Python", "C#", "Ruby"],
+    "correctAnswer": "Python"
+  },
+  {
+    "question": "What is a common method for splitting a dataset into training and testing sets?",
+    "choices": ["Cross-validation", "Linear regression", "Clustering", "Standard deviation"],
+    "correctAnswer": "Cross-validation"
+  },
+  {
+    "question": "Which library in Python is used for data manipulation and analysis?",
+    "choices": ["NumPy", "Pandas", "Matplotlib", "SciPy"],
+    "correctAnswer": "Pandas"
+  },
+  {
+    "question": "What is a decision tree?",
+    "choices": ["A type of database", "A visual representation of decisions and their possible consequences", "A data visualization tool", "A type of neural network"],
+    "correctAnswer": "A visual representation of decisions and their possible consequences"
+  },
+  {
+    "question": "Which algorithm is used for classification and regression tasks?",
+    "choices": ["K-means", "Decision trees", "Linear regression", "Random forest"],
+    "correctAnswer": "Random forest"
+  },
+  {
+    "question": "What is the purpose of data normalization?",
+    "choices": ["To remove duplicates", "To scale data to a standard range", "To categorize data", "To encrypt data"],
+    "correctAnswer": "To scale data to a standard range"
+  },
+  {
+    "question": "Which metric is commonly used to evaluate the performance of a classification model?",
+    "choices": ["Mean Absolute Error", "R-squared", "Confusion Matrix", "Root Mean Squared Error"],
+    "correctAnswer": "Confusion Matrix"
+  },
+  {
+    "question": "What is overfitting in the context of machine learning?",
+    "choices": ["When the model performs poorly on the training data", "When the model is too simple", "When the model performs well on the training data but poorly on new data", "When the model uses too much data"],
+    "correctAnswer": "When the model performs well on the training data but poorly on new data"
+  },
+  {
+    "question": "Which data visualization library is commonly used in Python?",
+    "choices": ["Seaborn", "Beautiful Soup", "Requests", "TensorFlow"],
+    "correctAnswer": "Seaborn"
+  }
+]
+
